@@ -1,0 +1,13 @@
+Maria|Femenino|Mexico|Partidos Politicos|[Bernardo Arevalo, Remy la Tortuga]|
+Luz|Femenino|Guatemala|AYUDA|[Gabriel, Sebastian, Ana Maria]|
+Sabrina|Femenino|Estados Unidos|Partidos Politicos|[Bernardo Arevalo]|
+Maria|Femenino|Mexico|AYUDA|[Jisso]|
+David|Masculino|Guatemala|Gusto Musicales|[Jisso, Ana Maria, Gabriel]|
+Alicia|Femenino|Guatemala|Partidos Politicos|[Bernardo Arevalo, Remy la Tortuga]|
+Benjamin|Masculino|Mexico|Gusto Musicales|[Gabriel, Sebastian, Ana Maria]|
+Luz|Femenino|Guatemala|Partidos Politicos|[Jisso, Ana Maria, Gabriel]|
+Luz|Femenino|Guatemala|Jugadores|[Fernanrdo, Sebastian, Gabriel]|
+Luz|Femenino|Guatemala|Gusto Musicales|[Fernanrdo, Sebastian, Gabriel]|
+David|Masculino|Guatemala|Jugadores|[Fernanrdo, Sebastian, Gabriel]|
+Luz|Femenino|Guatemala|Gusto Musicales|[Jisso, Lindsey Stirling]|
+Luz|Femenino|Guatemala|Partidos Politicos|[Bernardo Arevalo, Miguel Angel Asturias]|

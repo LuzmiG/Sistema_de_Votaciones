@@ -1,0 +1,5 @@
+Gusto Musicales|001|Encuesta|Hit Music
+Partidos Politicos|002|Votaciones|Presidenciales
+Agua Pura o COCA|008|Debatir|Se hace la encuesta para propositos educativos
+Jugadores|003|Seleccionar|Seleccionar quienes seran los futuros jugadores
+Limpia|005|File|Limpiar pecadores|

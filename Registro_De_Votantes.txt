@@ -1,0 +1,6 @@
+Sabrina|Carpenter|78945613|710|Femenino|10/02/2000|Estados Unidos|Los Angeles|California|Sec. Ave
+Maria|Amnon |12548826|3gUC6JWE6TP8kDOlb|Femenino|10/12/1888|Mexico|Zapatel|Jocotenango|4 Calles
+David|Salguero|78456132|XCVCUlip67Vncok1p|Masculino|10/09/1555|Guatemala|Guatemala|Potosí|6CALLE 2-5
+Luz|Gil|votante|789|Femenino|10/02/2001|Guatemala|Guatemala|San Juan|1CALLES
+Alicia|Sazo|00000000|HIxHsR2Df1IB3jGe5|Femenino|10/08/2000|Guatemala|Guatemala|San Juan|4 calle
+Benjamin|Saragoza|22222222|oOzyJngiDqBrI65oj|Masculino|10/05/1999|Mexico|Guadalajara|Jalisco|San Benito
